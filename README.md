@@ -1,6 +1,40 @@
-# 个人简历 / Resume
+# 个人简历 / Resume — 张元杰
 
-张远杰（Zhang Yuanjie）个人简历文件。
+> **Zhang Yuanjie — Resume & Career Portfolio**
+> *上海交通大学 仪器科学与技术硕士 · 基于微针阵列的可穿戴电化学传感系统方向*
+
+[![University](https://img.shields.io/badge/SJTU-上海交通大学-blue)](https://www.sjtu.edu.cn)
+[![Research](https://img.shields.io/badge/Research-Wearable%20Sensing-brightgreen)]()
+[![Embedded](https://img.shields.io/badge/Embedded-ESP32%20%2F%20STM32-green)]()
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--0705--7793-a6ce39)](https://orcid.org/0009-0001-0705-7793)
+
+---
+
+## 个人简介
+
+| 项目 | 内容 |
+|------|------|
+| **姓名** | 张元杰 (Zhang Yuanjie) |
+| **单位** | 上海交通大学 自动化与传感科学与工程学院 |
+| **学位** | 仪器科学与技术 硕士生 |
+| **导师** | 王侃 副教授 |
+| **研究方向** | 基于微针阵列的可穿戴电化学传感系统 |
+| **本科** | 武汉理工大学 |
+| **实习** | 小米汽车 OS 嵌入式工程师 |
+
+---
+
+## 研究技能
+
+| 领域 | 技能 |
+|------|------|
+| **传感器** | 微针阵列制备、电化学传感 (DPV/EIS)、生物标志物检测 |
+| **嵌入式** | ESP32-S3、STM32、FPC 柔性电路、BLE/Wi-Fi |
+| **边缘 AI** | TensorFlow Lite Micro、信号处理、实时分类 |
+| **云平台** | OneNET、数据上云、远程监控 |
+| **工具链** | LaTeX、Python、MATLAB、Altium、Git |
+
+---
 
 ## 文件列表
 
@@ -14,7 +48,25 @@
 | `Zhang_Yuanjie_Resume.7z` | 简历压缩包 |
 | `career-ranking-2029.html` | **就业推荐榜单（39家企业 · 六维评价体系）** |
 
+---
+
 ## 在线预览
 
 - 最新简历：[点击预览](https://zhangyuanjie-sjtu.github.io/resume/Zhang_Yuanjie_Resume_2026.pdf)
 - 就业终极总榜：[点击预览](https://zhangyuanjie-sjtu.github.io/resume/career-ranking-2029.html)
+
+---
+
+## 联系方式
+
+| 渠道 | 链接 |
+|------|------|
+| **GitHub** | [ZhangYuanJie-SJTU](https://github.com/ZhangYuanJie-SJTU) |
+| **ORCID** | [0009-0001-0705-7793](https://orcid.org/0009-0001-0705-7793) |
+| **邮箱** | 见简历 |
+
+---
+
+## 许可证
+
+本仓库存储个人简历文件，版权归作者所有。
