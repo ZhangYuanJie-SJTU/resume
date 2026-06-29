@@ -19,8 +19,8 @@
 | **学位** | 仪器科学与技术 硕士生 |
 | **导师** | 王侃 副教授 |
 | **研究方向** | 基于微针阵列的可穿戴电化学传感系统 |
-| **本科** | 武汉理工大学 |
-| **实习** | 小米汽车 OS 嵌入式工程师 |
+| **本科** | 武汉理工大学 测控技术与仪器（均分94.24 · 排名1/119）|
+| **实习** | 微创医疗 · 小米汽车 OS · 宇构智核 脑机接口 |
 
 ---
 
@@ -29,7 +29,7 @@
 | 领域 | 技能 |
 |------|------|
 | **传感器** | 微针阵列制备、电化学传感 (DPV/EIS)、生物标志物检测 |
-| **嵌入式** | ESP32-S3、STM32、FPC 柔性电路、BLE/Wi-Fi |
+| **嵌入式** | ESP32-S3、STM32、Hi3861、FPC 柔性电路、BLE/Wi-Fi/CAN |
 | **边缘 AI** | TensorFlow Lite Micro、信号处理、实时分类 |
 | **云平台** | OneNET、数据上云、远程监控 |
 | **工具链** | LaTeX、Python、MATLAB、Altium、Git |
@@ -40,8 +40,9 @@
 
 | 文件 | 说明 |
 |---|---|
-| `Zhang_Yuanjie_Resume_2026.pdf` | **最新简历（2026 最终版）** |
-| `Zhang_Yuanjie_Resume_2026.zip` | 2026 最终版 LaTeX 源文件（Overleaf） |
+| `Zhang_Yuanjie_Resume_2026_06_29.zip` | **最新简历 LaTeX 源文件（2026.06.29 更新 · Overleaf）** |
+| `Zhang_Yuanjie_Resume_2026.pdf` | 简历 2026 旧版 |
+| `Zhang_Yuanjie_Resume_2026.zip` | 简历 2026 旧版 LaTeX 源文件 |
 | `Zhang_Yuanjie_Resume__26_.pdf` | 简历 v26 |
 | `Zhang_Yuanjie_Resume__25_.pdf` | 简历 v25 |
 | `Zhang_Yuanjie_Resume__20_.pdf` | 简历 v20 |
@@ -52,7 +53,8 @@
 
 ## 在线预览
 
-- 最新简历：[点击预览](https://zhangyuanjie-sjtu.github.io/resume/Zhang_Yuanjie_Resume_2026.pdf)
+- 最新简历源文件：[下载](https://zhangyuanjie-sjtu.github.io/resume/Zhang_Yuanjie_Resume_2026_06_29.zip)（导入 Overleaf → XeLaTeX 编译）
+- 旧版简历 PDF：[点击预览](https://zhangyuanjie-sjtu.github.io/resume/Zhang_Yuanjie_Resume_2026.pdf)
 - 就业终极总榜：[点击预览](https://zhangyuanjie-sjtu.github.io/resume/career-ranking-2029.html)
 
 ---
